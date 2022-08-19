@@ -30,3 +30,4 @@ main().catch((error) => {
 
 //TRANSACTION HASH---- '0x3098e5e992c735ac1d1caaf726fd38db88ec23f8ea1d515acf69ede667d7e3d8'
 //CONTRACT ADDRESS --- "0xa55774A55094493ac407d2e58a32E5771D66e79e"
+//NFT LINK --- https://testnets.opensea.io/assets/rinkeby/0xa55774a55094493ac407d2e58a32e5771d66e79e/0/
