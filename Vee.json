@@ -1,0 +1,24 @@
+{
+    "description": "This NFT is proof that I completed the third Web3Bridge test on NFT creation",
+    "external_url": "https://twitter.com/PiusVicentia",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPbLN3hoYvEwEqF7g9Pj4ubgYXkRQa9N3agzncft7Tmr4",
+    "name": "Vicentia pius",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Course",
+        "value": "Web3Bridge Cohort VII"
+      },
+      {
+        "trait_type": "Token Standard",
+        "value": "ERC721"
+      },
+      {
+        "trait_type": "Date",
+        "value": "19th August, 2022"
+      }
+    ]
+  }
